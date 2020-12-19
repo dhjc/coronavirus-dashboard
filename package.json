@@ -11,7 +11,7 @@
     "govuk-frontend": "3.8.1",
     "govuk-react-jsx": "4.0.3",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^5.0.0",
     "numeral": "^2.0.6",
     "plotly.js": "^1.58.3",
     "react": "^16.14.0",
