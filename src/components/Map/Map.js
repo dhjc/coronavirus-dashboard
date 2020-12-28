@@ -55,12 +55,9 @@ const MapLayers = [
         maxZoom: 7,
         buckets: [
             scaleColours[0],
-            10, scaleColours[1],
-            50, scaleColours[2],
-            100, scaleColours[3],
-            200, scaleColours[4],
-            400, scaleColours[5],
-            800, scaleColours[6],
+            100, scaleColours[1],
+            200, scaleColours[2],
+            300, scaleColours[3],
         ]
     },
     {
@@ -77,12 +74,9 @@ const MapLayers = [
         foreground: "utla",
         buckets: [
             scaleColours[0],
-            10, scaleColours[1],
-            50, scaleColours[2],
-            100, scaleColours[3],
-            200, scaleColours[4],
-            400, scaleColours[5],
-            800, scaleColours[6],
+            100, scaleColours[1],
+            200, scaleColours[2],
+            300, scaleColours[3],
         ]
     },
     {
@@ -99,12 +93,9 @@ const MapLayers = [
         foreground: "ltla",
         buckets: [
             scaleColours[0],
-            10, scaleColours[1],
-            50, scaleColours[2],
-            100, scaleColours[3],
-            200, scaleColours[4],
-            400, scaleColours[5],
-            800, scaleColours[6],
+            100, scaleColours[1],
+            200, scaleColours[2],
+            300, scaleColours[3],
         ]
     }
 ];

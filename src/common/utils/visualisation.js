@@ -7,6 +7,9 @@ import { movingAverage } from "../stats";
 export const
     colours = [
         '#5694CA',  // Base blue
+        '#00703C',  // green
+        '#FFDD00',  // Yellow
+        '#d4351c',  // Red
         '#ABCBE5',  // Base blue tint 1
         '#DEEAF4',  // Base blue tint 2
         '#003078',  // Dark blue
@@ -15,8 +18,8 @@ export const
         '#B1B4B6',  // Grey
         '#D8DADB',  // Grey tint 1
         '#EFF0F0',  // Grey tint 2
-        '#FFDD00',  // Yellow
-        '#d4351c',  // Red
+        
+        
         // New colours
         // '#206BC9',  // blue
         // '#90C1FE',  // blue (tint 3)
